@@ -1,6 +1,6 @@
  Hi, I’m @Rrp14
- I’m interested in web dev and cyber security
- I’m currently learning frontend and google cybersecurity course
+ I’m interested in backend and IOT
+ I’m currently learning Spring Boot
  
 
 
