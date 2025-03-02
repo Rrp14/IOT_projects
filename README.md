@@ -1,6 +1,4 @@
- Hi, I’m @Rrp14
- I’m interested in backend and IOT
- I’m currently learning Spring Boot
+
  
 
 
